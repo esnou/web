@@ -388,11 +388,11 @@ button:focus {
 	background-repeat: no-repeat;
 }
 .banner-area .slide_bg1 {
-	background: url(../img/banner/i.jpg);
+	background: url(../img/banner/2.jpg);
 	background-size: 100% 100%;
 }
 .banner-area .slide_bg2 {
-	background: url(../img/banner/9.jpg);
+	background: url(../img/banner/1.jpg);
 	background-size: 100% 100%;
 }
 .banner-area .slide_bg3 {
@@ -3554,15 +3554,30 @@ h6 {
 
 /*# sourceMappingURL=style.css.map */
 .img1 {
-	height: 650px;
+	height: 550px;
 }
 .img4 {
-	height: 650px;
+	height: 550px;
 }
 .img-c {
 	height: 200px;
 }
 .img-a {
-	height: 650px;
+	height: 450px;
 }
 
+.img5 {
+	height: 550px;
+}
+.img6 {
+	height: 500px;
+	width: 1px;
+}
+.log{
+	height: 100px;
+	width: 100px;
+}
+.log2{
+	height: 150px;
+	width: 150px;
+}
